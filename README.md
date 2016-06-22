@@ -2,7 +2,8 @@
 Promise based image processing utils.
 
 # Install
-`npm install`
+* download and install [GraphicsMagick](http://www.graphicsmagick.org/)
+* `npm install`
 
 Supported node version: 5 or higher (tested on 6)
 
