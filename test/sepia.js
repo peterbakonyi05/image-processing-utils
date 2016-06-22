@@ -1,6 +1,5 @@
 'use strict';
 
-const path = require('path');
 const tu = require('./utils');
 
 const { sepia } = require('../src');
