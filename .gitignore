@@ -20,3 +20,6 @@ help
 
 # Dependency directory
 node_modules
+
+# Test helpers
+test/tmp/

@@ -6,7 +6,7 @@ const tools = require('urbanjs-tools');
 tools.initialize(gulp, {
   babel: false,
 
-  checkDependencies: true,
+  checkDependencies: false,
 
   checkFileNames: true,
 
@@ -18,7 +18,7 @@ tools.initialize(gulp, {
 
   jsdoc: true,
 
-  mocha: false,
+  mocha: true,
 
   nsp: true,
 
